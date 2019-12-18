@@ -1,4 +1,3 @@
 #!/bin/sh
 
-
-ls -lrt ArisG/*
+ls  ArisG/*
