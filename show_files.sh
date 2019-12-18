@@ -1,3 +1,4 @@
 #!/bin/sh
 
-ls -lrt AG-DIR/*
+
+ls -lrt ArisG/*
