@@ -4,4 +4,4 @@ ls -lrt AG-Dir/*
 
 pwd
 
-rm -rf AG-Dir
+rm -rf ./AG-Dir
