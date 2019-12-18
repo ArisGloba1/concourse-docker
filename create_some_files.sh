@@ -7,4 +7,4 @@ echo "file3" > some-files01/file3
 echo "file4" > some-files01/file4
 
 ls some-files01/*
-cp -i some-files01/* /home/ubuntu/concourse/ci-pipe/
+cp -ir some-files01/* /home/ubuntu/concourse/ci-pipe/
