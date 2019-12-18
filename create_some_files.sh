@@ -7,3 +7,4 @@ echo "ag-file3" > AG-DIR/ag-file3
 echo "ag-file4" > AG-DIR/ag-file4
 
 ls -lrt AG-DIR/*
+pwd
