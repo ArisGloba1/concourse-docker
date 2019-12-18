@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ls ls AG-DIR/*
+ls -lrt AG-DIR/*
