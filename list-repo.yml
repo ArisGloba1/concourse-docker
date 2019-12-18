@@ -3,7 +3,6 @@ resources:
 - name: app_sources_commit
   type: git
   source:
-          #uri: https://github.com/concourse/concourse-docker.git
     uri: https://github.com/ArisGloba1/concourse-docker.git
     username: 
     password:
