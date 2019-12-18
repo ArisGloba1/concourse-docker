@@ -1,10 +1,9 @@
 #!/bin/sh
 
-mkdir some-files01
-echo "file1" > some-files01/file1
-echo "file2" > some-files01/file2
-echo "file3" > some-files01/file3
-echo "file4" > some-files01/file4
+mkdir AG-DIR
+echo "ag-file1" > AG-DIR/file1
+echo "ag-file2" > AG-DIR/file2
+echo "ag-file3" > AG-DIR/file3
+echo "ag-file4" > AG-DIR/file4
 
-ls some-files01/*
-cp -ir some-files01/* /home/ubuntu/concourse/ci-pipe/
+ls AG-DIR/*
