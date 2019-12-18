@@ -1,10 +1,11 @@
 #!/bin/sh
 
-mkdir ArisG
-echo "ag-file1" > ArisG/ag-file1
-echo "ag-file2" > ArisG/ag-file2
-echo "ag-file3" > ArisG/ag-file3
-echo "ag-file4" > ArisG/ag-file4
+mkdir some-files
+echo "file1" > some-files/file1
+echo "file2" > some-files/file2
+echo "file3" > some-files/file3
+echo "file4" > some-files/file4
 
-ls -lrt ArisG/*
+ls some-files/*
+hostname -i
 pwd
