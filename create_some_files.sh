@@ -1,5 +1,5 @@
 #!/bin/sh
-
+rm -rf AG-Dir
 mkdir AG-Dir
 echo "ag-file1" > AG-Dir/ag-file1
 echo "ag-file2" > AG-Dir/ag-file2
