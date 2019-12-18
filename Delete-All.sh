@@ -1,3 +1,3 @@
 #!/bin/sh
 
-rm -rf  AG-DIR/*
+rm -rf  ArisG/*
