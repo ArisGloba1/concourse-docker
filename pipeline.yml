@@ -11,6 +11,7 @@ resources:
 jobs:
 - name: job-pass-files
   public: true
+  trigger: true
   plan:
   - get: resource-tutorial
   - task: create-some-files
